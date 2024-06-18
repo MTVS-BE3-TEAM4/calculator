@@ -25,7 +25,7 @@ public class MultiplyTest {
     }
 
     @Test
-    @DisplayName("-10과 12의 곱이 120인지 확인")
+    @DisplayName("-10과 12의 곱이 -120인지 확인")
     public void testMultiply2(){
 
         int a = -10;
